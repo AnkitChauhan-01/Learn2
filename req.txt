@@ -23,3 +23,8 @@ Day 6:
 Rule no. 16
 Rule no. 17
 Rule no. 18
+
+
+Adding stuff 1
+Adding stuff 2
+Adding stuff 3
