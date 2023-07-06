@@ -16,3 +16,8 @@ Day 4:
 Rule no. 10
 Rule no. 11
 Rule no. 12
+
+Day 5:
+Rule no. 13
+Rule no. 14
+Rule no. 15
